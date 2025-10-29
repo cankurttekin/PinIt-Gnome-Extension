@@ -29,12 +29,12 @@ https://gitlab.gnome.org/GNOME/gnome-shell/blob/main/js/ui/messageTray.js#L563~~
 ## Version
 |Branch                   |Version|Compatible GNOME version|
 |-------------------------|:-----:|------------------------|
-| main                    |    17 | GNOME 45 & 46          |
+| main                    |    21 | GNOME 45+          |
 | [gnome-shell-before-45](https://github.com/cankurttekin/PinIt-Gnome-Extension/tree/gnome-shell-before-45)   |  4.2  | GNOME 3.4 -> 44        |
 <br>
-This extension supports GNOME Shell `3.4?` to `47`
+This extension supports GNOME Shell `3.4?` to `49`
 
-_Tested on GNOME 42 & 46._
+_Tested on GNOME 42, 46 and 49._
 
 ## Installing
 You can get this extension from [extensions.gnome.org](https://extensions.gnome.org/extension/7083/pin-it/) or you can download the source from [releases](https://github.com/cankurttekin/PinIt-Gnome-Extension/releases) and copy pinit@cankurttekin to your `/.local/share/gnome-shell/extensions/` directory.
