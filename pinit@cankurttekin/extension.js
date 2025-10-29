@@ -32,7 +32,7 @@ import * as MessageTray from 'resource:///org/gnome/shell/ui/messageTray.js';
 const ICON_MAPPING = {
     'Pin': 'view-pin-symbolic',
     'Calendar': 'x-office-calendar-symbolic',
-    'Music': 'emblem-music-symbolic',
+    'Music': 'folder-music-symbolic',
     'Alarm': 'alarm-symbolic',
     'Information': 'dialog-information-symbolic',
     'Warning': 'dialog-warning-symbolic',
